@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Chinh Nguyen
 
-<!--
-**chinhnguyen96/chinhnguyen96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Data Analyst in Banking, Credit Risk, and Financial Analytics.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Working with financial and banking data
+- Interested in Credit Risk, Investment Analytics, and AI/ML
+- Building data-driven dashboards and analytical models
+- Continuously developing skills in Data Analytics and Finance
+
+## Tech Stack
+
+Python | SQL | Power BI | Excel | Streamlit | Git
