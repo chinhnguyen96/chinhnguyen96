@@ -1,6 +1,6 @@
 # Hi, I'm Chinh Nguyen
 
-💳 **Credit Risk Analytics | 📊 **Data Analyst** | 📊 **Data Science** | 🏦 **Banking & Consumer Finance**
+💳 **Credit Risk Analytics** | 📊 **Data Analyst** | 📊 **Data Science** | 🏦 **Banking & Consumer Finance**
 
 I specialize in **Credit Risk Analytics, Credit Scoring, and Portfolio Management**, with hands-on experience across banking and consumer finance.
 
