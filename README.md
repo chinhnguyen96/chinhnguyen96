@@ -1,14 +1,26 @@
 # Hi, I'm Chinh Nguyen
 
-Senior Data Analyst in Banking, Credit Risk, and Financial Analytics.
+💳 **Senior Credit Risk Analytics Specialist** | 📊 **Data Analyst** | 🏦 **Banking & Consumer Finance**
 
-## About Me
+I specialize in **Credit Risk Analytics, Credit Scoring, and Portfolio Management**, with hands-on experience across banking and consumer finance.
 
-- Working with financial and banking data
-- Interested in Credit Risk, Investment Analytics, and AI/ML
-- Building data-driven dashboards and analytical models
-- Continuously developing skills in Data Analytics and Finance
+My work focuses on turning complex financial and customer data into actionable insights to support **credit risk management, portfolio monitoring, and data-driven decision-making**.
 
-## Tech Stack
 
-Python | SQL | Power BI | Excel | Streamlit | Git
+### 🛠️ Areas of Expertise
+
+`Credit Risk Analytics` · `Credit Scoring` · `Portfolio Analytics` · `Data Analytics` · `Dashboard Development` · `Banking Analytics` · `Consumer Finance`
+
+### 💻 Tech & Analytics
+
+`Python` · `SQL` · `Power BI` · `Excel` · `Streamlit` · `Machine Learning`
+
+### 🚀 Current Interests
+
+* AI & Machine Learning in Credit Risk
+* Credit Scoring Models
+* Portfolio Optimization & Monitoring
+* Financial & Investment Analytics
+* Interactive Analytics Dashboards
+
+> Turning financial data into insights, and insights into better decisions.
