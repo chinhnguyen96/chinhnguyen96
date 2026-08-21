@@ -1,4 +1,4 @@
-# Hi, I'm Chinh Nguyen
+# Chinh Nguyen
 
 💳 **Credit Risk Analytics** | 📊 **Data Analyst** | 📊 **Data Science** | 🏦 **Banking & Consumer Finance**
 
